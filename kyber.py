@@ -1,7 +1,7 @@
 
 
 # An implementation of Kyber1024 based around the 20210804 specification.
-# This is implementation is intended for educational/research purposes.
+# This is implementation is only intended for educational/research purposes.
 # It should not be used for the protection of sensitive information.
 # Typically: - qint denotes a F_q element (integer mod 3329)
 #            - element denotes a member of R_q (list of 256 qints)
